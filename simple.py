@@ -1,0 +1,10 @@
+math=50
+chem=50
+name="Harsha"
+pi=3.14
+result=True
+print(id(math))
+print(id(chem))
+print(id(name))
+print(id(pi))
+print(id(result))
